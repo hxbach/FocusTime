@@ -13,7 +13,7 @@ export const Focus = ({ addSubject }) => {
         <TextInput
           style={styles.textInput}
           onChangeText={setSubject}
-          label="Nay định tập trung làm gì nào? 123"
+          label="Nay định tập trung làm gì nào? 1234"
         />
         <View style={styles.button}>
           <RoundedButton
